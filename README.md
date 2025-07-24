@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Luk3-b&theme=dark&hide_border=false&background=00000000&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&currStreakNum=00FFFF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://www.codewars.com/users/Luk3-b/badges/large" alt="Codewars Badge"/>
 </p>
 
