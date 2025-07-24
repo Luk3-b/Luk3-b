@@ -1,4 +1,4 @@
-<img src="https://<your-vercel-app-name>.vercel.app/api?username=Luk3-b&show_icons=true&count_private=true&theme=tokyonight" />
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Luk3-b)](https://github.com/Luk3-b/github-readme-stats)
 
 <p align="center">
   <img src="https://www.codewars.com/users/Luk3-b/badges/large" alt="Codewars Badge"/>
