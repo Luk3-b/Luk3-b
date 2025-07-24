@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Luk3-b&theme=dark&hide_border=false&background=00000000&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&currStreakNum=00FFFF" alt="GitHub Streak"/>
-</p>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Luk3-b&count_private=true&theme=tokyonight&showicons=true)]()
 
 <p align="center">
   <img src="https://www.codewars.com/users/Luk3-b/badges/large" alt="Codewars Badge"/>
